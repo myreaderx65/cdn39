@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title>ReadySteadyBook - for literature...</title>
+	<meta name="verify-v1" content="f65ecrwMMZ2G9KUisrnqrayn229GwHbHbtK34Vdf6t4="/>
+	<meta name="description" content="ReadySteadyBook is an independent book review website devoted to reviewing the very best books in literary fiction, poetry, history and philosophy."/>
+	<meta name="keywords" content="readysteadybook,ready,steady,rsb,book,books,literature,literary,poetry,poems,book reviews,book news,reviews,blog,books blog,literary blog,literary articles,interviews,Mark Thwaite,newsfeed,subscribe,email,archive"/>
+	<meta name="robots" content="all"/>
+		<meta name="copyright" content="Copyright © 2002-2016 ReadySteadyBook. All rights reserved."/>
+		<link rel="shortcut icon" type="image/x-icon" title="Short-Cut Icon" href="favicon.ico"/>
+		<link rel="alternate" type="application/rss+xml" title="ReadySteadyBlog" href="Feed_blog.html"/>
+		<link rel="alternate" type="application/rss+xml" title="ReadySteadyBook Articles & Reviews" href="http://www.readysteadybook.com/Feed.aspx?content"/>
+		<link rel="alternate" type="application/rss+xml" title="ReadySteadyBook Blog, Articles & Reviews combined" href="http://www.readysteadybook.com/Feed.aspx?combined"/>
+		<link rel="search" type="application/opensearchdescription+xml" title="RSB Search" href="http://www.readysteadybook.com/opensearch.xml"/>
+		<script type="text/javascript" src="includes/functions.js"></script>
+		<link rel="stylesheet" href="assets/css/style.css"/>
+		<!--[if IE 6]><link rel="stylesheet" href="assets/css/ie.css" /><![endif]-->
+	</head>
+	<body>
+		<ul id="accessibility">
+			<li><a href="#content" title="Skip past navigation to main part of page">Skip Navigation</a></li>
+			<li><a href="Article_page_accessibility.html" accesskey="0" tabindex="10">Accessibility</a></li>
+		</ul>
+		<div id="header">
+			<div id="bottom">
+				<div class="container_12">
+					<div class="grid_5">
+						<div id="logo">
+							<a href="/">
+								<img src="assets/img/rsb-robot.png" alt="RSB Robot"/>
+								<img src="assets/img/rsb-logo-bg-light.png" alt="ReadySteadyBook - for literature..." style="margin-bottom:59px;"/>
+							</a>
+						</div><!--logo-->
+					</div><!--grid_5-->
+					<div class="grid_7">
+<ul id="navlinks">
+	<li><a href="index_aspx.html" accesskey="1" tabindex="2" class="selected">home</a></li>
+	<li><a href="Blog.html" accesskey="B" tabindex="3">RSB blog</a></li>
+	<li><a href="Articles.html" accesskey="A" tabindex="4">articles & interviews</a></li>
+	<li><a href="BookReviews.html" accesskey="R" tabindex="5">book reviews</a></li>
+	<li><a href="Contributors.html" accesskey="C" tabindex="6">contributors</a></li>
+	<li><a href="Article_page_aboutrsb.html" accesskey="6">about RSB</a></li>
+</ul>
+						<div id="header_advert">
+						</div><!--header_advert-->
+						<div class="alpha prefix_1 grid_4 widget" style="margin-bottom:15px;">
+							<form action="Search.html">
+								<input type="text" name="q" value="to search, type and hit enter" onfocus="if(this.value=='to search, type and hit enter')this.value='';" onblur="if(this.value=='')this.value='to search, type and hit enter';">
+							</form>
+						</div><!--widget-->
+						<div class="omega grid_2 widget" style="margin-bottom:15px;">
+							<span class="icon" style="float:right;"><img src="assets/img/icon-facebook.png" alt="rss"></span>
+							<span class="icon" style="float:right;"><img src="assets/img/icon-twitter.png" alt="rss"></span>
+							<span class="icon" style="float:right;"><a href="Feed_blog.html"><img src="assets/img/icon-rss.png" alt="rss"></a></span>
+						</div><!--widget-->
+					</div><!--grid_7-->
+					<div class="clear"></div>
+				</div><!--container_12-->
+			</div><!--bottom-->
+		</div><!--header-->
+		<div id="the_body">
+			<div class="container_12">
+	<div class="grid_12" id="archive">
+		<div class="grid_12 alpha omega">
+			<div class="post_columns">
+				<div class="column" style="width:295px;">
+					<h4><span>Latest Articles</span></h4>
+					<div class="image">
+						<a href="Articles.html" style="height:145px;width:295px;margin:0;">
+							<img src="ThumbnailImage-axd_h_145_w_295_src__/images/spotlights/38.jpg" height="145" width="295"/>
+						</a>
+					</div>
+							<div class="category_list">
+								<ul>
+							<li>
+								<div class="image">
+									<a href="Article_page_tjclark.html" title="An interview with TJ Clark: Picasso and Truth" style="height:60px;width:40px;">
+										<img src="ThumbnailImage-axd/images/picassoandtruth.gif" alt="[image]" height="60" width="40"/>
+									</a>
+								</div><!--image-->
+								<div class="details">
+									<h5><a href="Article_page_tjclark.html">An interview with TJ Clark: Picasso and Truth</a></h5>
+									<span class="date">Timothy James Clark, often known as TJ Clark, is an art historian… <a href="Article_page_tjclark.html" style="font-weight:bold;">[cont]</a></span>
+								</div><!--details-->
+							</li>
+							<li>
+								<div class="image">
+									<a href="Article_page_redbutton.html" title="Red Button Publishing" style="height:60px;width:40px;">
+										<img src="ThumbnailImage-axd/images/karenings.jpg" alt="[image]" height="60" width="40"/>
+									</a>
+								</div><!--image-->
+								<div class="details">
+									<h5><a href="Article_page_redbutton.html">Red Button Publishing</a></h5>
+									<span class="date">Karen Ings has worked as an editor in trade publishing for sixteen… <a href="Article_page_redbutton.html" style="font-weight:bold;">[cont]</a></span>
+								</div><!--details-->
+							</li>
+							<li>
+								<div class="image">
+									<a href="Article_page_daphnehampson.html" title="Daphne Hampson on Kierkegaard" style="height:60px;width:40px;">
+										<img src="ThumbnailImage-axd/images/daphnehampson.jpg" alt="[image]" height="60" width="40"/>
+									</a>
+								</div><!--image-->
+								<div class="details">
+									<h5><a href="Article_page_daphnehampson.html">Daphne Hampson on Kierkegaard</a></h5>
+									<span class="date">Daphne Hampson holds doctorates in history from Oxford, in theology from Harvard,… <a href="Article_page_daphnehampson.html" style="font-weight:bold;">[cont]</a></span>
+								</div><!--details-->
+							</li>
+								</ul>
+							</div>
+				</div><!--column-->
+				<div class="column" style="width:295px;">
+					<h4><span>ReadySteadyBlog</span></h4>
+					<div class="image">
+						<a href="Blog.html" style="height:145px;width:295px;margin:0;">
+							<img src="ThumbnailImage-axd_h_145_w_295_src__/images/spotlights/16.jpg" height="145" width="295"/>
+						</a>
+					</div>
+							<div class="category_list">
+								<ul>
+							<li>
+								<div class="image">
+									<a href="Blog_permalink_20160122132447.html" style="height:60px;width:40px;">
+										<img src="ThumbnailImage-axd_h60_w_40_src__/images/spotlights/47.jpg" height="60" width="40"/>
+									</a>
+								</div><!--image-->
+								<div class="details">
+									<h5><a href="Blog_permalink_20160122132447.html">Being in Lieu on Stephen Mitchelmore's writing</a></h5>
+									<span class="date">I first came across Stephen Mitchelmores blog This Space on one of… <a href="Blog_permalink_20160122132447.html" style="font-weight:bold;">[cont]</a></span>
+								</div><!--details-->
+							</li>
+							<li>
+								<div class="image">
+									<a href="Blog_permalink_20160121125457.html" style="height:60px;width:40px;">
+										<img src="ThumbnailImage-axd_h60_w_40_src__/images/spotlights/88.jpg" height="60" width="40"/>
+									</a>
+								</div><!--image-->
+								<div class="details">
+									<h5><a href="Blog_permalink_20160121125457.html">The Sleep of the Righteous</a></h5>
+									<span class="date">Right, time to get down to some proper reading, and Wolfgang Hilbigs… <a href="Blog_permalink_20160121125457.html" style="font-weight:bold;">[cont]</a></span>
+								</div><!--details-->
+							</li>
+							<li>
+								<div class="image">
+									<a href="Blog_permalink_20150818214802.html" style="height:60px;width:40px;">
+										<img src="ThumbnailImage-axd_h60_w_40_src__/images/spotlights/84.jpg" height="60" width="40"/>
+									</a>
+								</div><!--image-->
+								<div class="details">
+									<h5><a href="Blog_permalink_20150818214802.html">Breathless: Over and over</a></h5>
+									<span class="date">… <a href="Blog_permalink_20150818214802.html" style="font-weight:bold;">[cont]</a></span>
+								</div><!--details-->
+							</li>
+								</ul>
+							</div>
+				</div><!--column-->
+				<div class="column last" style="width:295px;">
+					<h4><span>Latest Book Reviews</span></h4>
+					<div class="image">
+						<a href="BookReviews.html" style="height:145px;width:295px;margin:0;">
+							<img src="ThumbnailImage-axd_h_145_w_295_src__/images/spotlights/52.jpg" height="145" width="295"/>
+						</a>
+					</div>
+							<div class="category_list">
+								<ul>
+							<li>
+								<div class="image">
+									<a href="BookReview_isbn_9781609805043.html" title="Stop Here" style="height:60px;width:40px;">
+										<img src="CoverImage.axd_media_book_isbn_9781609805043_size_s_type_review.jpg" alt="Stop Here" height="60" width="40"/>
+									</a>
+								</div><!--image-->
+								<div class="details">
+									<h5><a href="BookReview_isbn_9781609805043.html">Stop Here</a></h5>
+									<span class="date">In the September 1874 Atlantic Monthly George Parsons Lathrop wrote in his… <a href="BookReview_isbn_9781609805043.html" style="font-weight:bold;">[cont]</a></span>
+								</div><!--details-->
+							</li>
+							<li>
+								<div class="image">
+									<a href="BookReview_isbn_9780986058608.html" title="Diving for Pearls: A Thinking Journey with Hannah Arendt" style="height:60px;width:40px;">
+										<img src="CoverImage.axd_media_book_isbn_9780986058608_size_s_type_review.jpg" alt="Diving for Pearls: A Thinking Journey with Hannah Arendt" height="60" width="40"/>
+									</a>
+								</div><!--image-->
+								<div class="details">
+									<h5><a href="BookReview_isbn_9780986058608.html">Diving for Pearls: A Thinking Journey with Hannah Arendt</a></h5>
+									<span class="date">Recently an author and scholar, Kathleen B. Jones, gave me her book.… <a href="BookReview_isbn_9780986058608.html" style="font-weight:bold;">[cont]</a></span>
+								</div><!--details-->
+							</li>
+							<li>
+								<div class="image">
+									<a href="BookReview_isbn_9780923389956.html" title="Wreckage of Reason II: Back To The Drawing Board" style="height:60px;width:40px;">
+										<img src="CoverImage.axd_media_book_isbn_9780923389956_size_s_type_review.jpg" alt="Wreckage of Reason II: Back To The Drawing Board" height="60" width="40"/>
+									</a>
+								</div><!--image-->
+								<div class="details">
+									<h5><a href="BookReview_isbn_9780923389956.html">Wreckage of Reason II: Back To The Drawing Board</a></h5>
+									<span class="date">Wreckage of Reason II: Back to the Drawing Board, edited by Nava… <a href="BookReview_isbn_9780923389956.html" style="font-weight:bold;">[cont]</a></span>
+								</div><!--details-->
+							</li>
+								</ul>
+							</div>
+				</div><!--column-->
+				<div class="clear"></div>
+			</div><!--post_columns-->
+		</div><!--grid_12 alpha omega-->
+	</div><!--grid_12-->
+				<div class="clear"></div>
+			</div><!--container_12-->
+		</div><!--the_body-->
+		<div id="footer">
+			<div id="footer_border"></div>
+			<div class="container_12">
+				<div class="grid_3">
+					<div class="widget">
+						<h4><span>About RSB</span></h4>
+						<p><em>ReadySteadyBook</em> is an <b>independent</b> book review website, which is devoted to reviewing the very best books in literary fiction, poetry, history and philosophy.</p>
+						<p>It was one of the Guardian Unlimited Books' top 10 literary blogs ("a home-grown treasure, this one, with smart, serious analysis") and recently described as "fast becoming Britain's premier literary website" <a href="https://fi.twin.com/casino-games" target="_blank">parhaat casinopelit</a> </p>
+					</div><!--widget-->
+				</div><!--grid_3-->
+				<div class="grid_3">
+					<div class="widget">
+						<h4><span>Twitter</span></h4>
+						<div id="twitter-tweets"></div>
+						<p>@readysteadybook on Twitter</p>
+					</div><!--widget-->
+				</div><!--grid_3-->
+				<div class="grid_3">
+					<div class="widget">
+  <h4>
+    <span>
+      Brit Lit Blogs
+    </span>
+  </h4>
+  <ul>
+    <li>
+      Harbingers...
+    </li>
+    <li>
+      The Leaping of the Year...
+    </li>
+    <li>
+      A Week in the Life of...
+    </li>
+    <li>
+      Mihail Sebastian: For Two Thousand Years
+    </li>
+    <li>
+      The Long View ~ Elizabeth Jane Howard
+    </li>
+    <li>
+      Making and unmaking <a href="https://de.twin.com" target="_blank">Bestes Online Casino</a>
+    </li>
+  </ul>
+</div>
+				</div><!--grid_3-->
+				<div class="grid_3">
+					<div class="widget">
+						<p class="right"><img src="assets/img/rsb-logo-bg-dark.png" alt="logo"></p>
+						<p class="center"><img src="assets/img/rsb-robot.png" alt="robot"/></p>
+					</div><!--widget-->
+				</div><!--grid_3-->
+				<div class="clear"></div>
+			</div><!--container_12-->
+			<div id="footer_bottom">
+				<div class="container_12">
+					<div class="grid_6">
+						<p>Copyright © 2002-2019 <a href="https://twin.com/slots" target="_blank">slot machine</a> <a href="/">ReadySteadyBook</a>. All Rights Reserved. · <a href="Article_page_privacy.html">Privacy Policy</a> · <a href="Sitemap.html" accesskey="3" tabindex="9">Sitemap</a></p>
+					</div><!--grid_6-->
+					<div class="grid_6">
+						<p class="right">Web Development by Vertino Ltd</p>
+					</div><!--grid_6-->
+					<div class="clear"></div>
+				</div><!--container_12-->
+			</div><!--footer_bottom-->
+		</div><!--footer-->
+		<script type="text/javascript" src="ajax/libs/jquery/1-4-2/jquery.min.js"></script>
+		<script type="text/javascript">if (typeof jQuery == 'undefined') {document.write(unescape("%3Cscript type='text/javascript' src='assets/js/jquery-1.4.2.min.js'%3E%3C/script%3E")); }</script>
+			<script type="text/javascript" src="assets/js/custom.js"></script>
+	<!-- Piwik --><script type="text/javascript">var pkBaseURL = (("https:" == document.location.protocol) ? " https://piwik.webcontrolcenter.com/ " : " http://piwik.webcontrolcenter.com/");document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));</script><script type="text/javascript">try {var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php",2059);piwikTracker.trackPageView();piwikTracker.enableLinkTracking();} catch( err ) {}</script><noscript><p><img src="piwik_idsite_2059.jpg" style="border:0" alt=""/></p></noscript><!-- End Piwik Tracking Code --></body>
+</html>
